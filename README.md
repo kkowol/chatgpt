@@ -9,8 +9,8 @@ clone this repo and install the requirements:
 ```python
 pip install -r requirements.txt
 ```
-
+and paste the API key into a file named ```apikey.txt```
 # Usage
 ```python
-python3 chatgpt.py 
+python chatgpt.py 
 ```
